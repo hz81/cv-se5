@@ -105,6 +105,48 @@ highlights:
         High-productive and easy-to-adapt person. <br>
         A positive can-do attitude and a dedicated learner aiming to enhance lives through innovation.
 
+experiences:
+    title: Experiences
+    info:
+      - role: System Engineer
+        time: Jun 2022 - Present
+        company: Xcidic Pte. Ltd, Singapore • IT Solution Provider
+        site: https://xcidic.com
+        details: |
+            - Led, organised, implemented, and preserved the entire infrastructure environment to serve organisational objectives and operations. Fulfil 98% of the Service Level Agreement (SLA) in most aspects..
+            - Orchestrated requirement gathering session to align with internal and external stakeholders. More than 96% of the requirements have been delivered accordingly and in a timely manner.
+            - Directed a 6-member cross-functional (coders, QA, and UI/UX) team to deploy a cutting-edge mobile app that is secure and reliable, simplifying payment and class management for parents, students, and educators. It contributes up to 40% of the organisation’s annual income.
+            - Established code-base templates and DevSecOps procedures to accelerate the development process up to 50% while making it secure and reliable by implementing Software Composition Analysis (SCA) tools.
+            - Implemented ITSM in product maintenance, which increased the continuity of the strategic partnership with the client by up to 85%.
+      - role: System Engineer
+        time: Apr 2019 - May 2022
+        company: Korea Development Bank - Tifa Finance • Finance & Leasing Company
+        site: https://www.kdbtifa.co.id/en
+        details: |
+            - Explored diverse solutions, evaluating risks, benefits, and impacts, then presented impactful recommendations to the executives while ensuring consistent progress updates. 85% of the inputs were successfully approved and executed.
+            - Enforced advanced technology and systems. On average, there were 3 new advancements executed each year.
+            - Organise workshops and training sessions. Successfully presented the material and gathered positive feedback from the audience.
+            - Managed a 5-member cross-division (coders, QA, and UI/UX) team to build and deliver a comprehensive corporate profile website with a content management system. This channel boosted the number of potential customers by more than 70%.
+            - Directed a 4-member of coder team and collaborated with 7 business partners to deploy and operate a customised ERP system on Xen servers to support the business and operational activities. The system had effectively converted 95% of the entire manual process to digital.
+            - Established a B2B system integration by deploying an application with the microservices concept. The integration reduced the operational costs by 30% annually.        
+      - role: System Support Engineer
+        time: Jan 2012 - Feb 2019
+        company: Manulife Financial - Life Insurance Company
+        site: https://www.manulife.co.id
+        details: |
+            - Spearheaded the continuous improvement of system and process automation. Deployed an automated End-of-Day scheduler that cut the cost of the operators.
+            - Engaged and cultivated partnerships with key stakeholders to comprehend and fulfil organisational needs. More than 96% of the requirements were delivered accordingly and in a timely manner.
+            - Led a team to execute a core system migration to a data centre in Kuala Lumpur, Malaysia. The new environment had enhanced the system’s performance by up to 25% compared to the previous environment.
+            - Published a revamped responsive application that serves retail customers using various devices. The channel increased sales lead generation by 35%.
+      - role: Technical Analyst
+        time: Nov 2005 - Jan 2012
+        company: Mega Auto Finance - Motorcycle Leasing Company
+        site: http://www.maf.co.id
+        details: |
+            - Developed, architected, and executed robust IT infrastructure. Successfully implemented server ecosystem by using VMware.
+            - Collaborated with cross-functional teams to deliver and deploy an upgraded core system. It supported 98% of the entire business process for both retail customers and internal back-office users.
+            - Published enhancements to improve payment collection processing time to less than 0.5 second on average.
+
 skills-tech:
     title: Technical Skills
     toolset:
@@ -181,55 +223,13 @@ achievements:
           - url: https://www.kdbtifa.co.id/backend/backend/auth/signin
             urldesc: CMS
             urlatt:
-      - desc: "Administer a customised ERP system during an upgrade process, including providing a staging site for trial"
+      - desc: "Administered a customised ERP system during an upgrade process, including providing a staging site for trial"
         links:
           - url: http://202.157.189.196:7799
             urldesc: ERP System
             urlatt: |
               User ID: herryzh1 <br>
               Password: H3l2ryzh07~
-
-experiences:
-    title: Experiences
-    info:
-      - role: System Engineer
-        time: Jun 2022 - Present
-        company: Xcidic Pte. Ltd, Singapore • IT Solution Provider
-        site: https://xcidic.com
-        details: |
-            - Led, organised, implemented, and preserved the entire infrastructure environment to serve organisational objectives and operations. Fulfil 98% of the Service Level Agreement (SLA) in most aspects..
-            - Orchestrated requirement gathering session to align with internal and external stakeholders. More than 96% of the requirements have been delivered accordingly and in a timely manner.
-            - Directed a 6-member cross-functional (coders, QA, and UI/UX) team to deploy a cutting-edge mobile app that is secure and reliable, simplifying payment and class management for parents, students, and educators. It contributes up to 40% of the organisation’s annual income.
-            - Established code-base templates and DevSecOps procedures to accelerate the development process up to 50% while making it secure and reliable by implementing Software Composition Analysis (SCA) tools.
-            - Implemented ITSM in product maintenance, which increased the continuity of the strategic partnership with the client by up to 85%.
-      - role: System Engineer
-        time: Apr 2019 - May 2022
-        company: Korea Development Bank - Tifa Finance • Finance & Leasing Company
-        site: https://www.kdbtifa.co.id/en
-        details: |
-            - Explored diverse solutions, evaluating risks, benefits, and impacts, then presented impactful recommendations to the executives while ensuring consistent progress updates. 85% of the inputs were successfully approved and executed.
-            - Enforced advanced technology and systems. On average, there were 3 new advancements executed each year.
-            - Organise workshops and training sessions. Successfully presented the material and gathered positive feedback from the audience.
-            - Managed a 5-member cross-division (coders, QA, and UI/UX) team to build and deliver a comprehensive corporate profile website with a content management system. This channel boosted the number of potential customers by more than 70%.
-            - Directed a 4-member of coder team and collaborated with 7 business partners to deploy and operate a customised ERP system on Xen servers to support the business and operational activities. The system had effectively converted 95% of the entire manual process to digital.
-            - Established a B2B system integration by deploying an application with the microservices concept. The integration reduced the operational costs by 30% annually.        
-      - role: System Support Engineer
-        time: Jan 2012 - Feb 2019
-        company: Manulife Financial - Life Insurance Company
-        site: https://www.manulife.co.id
-        details: |
-            - Spearheaded the continuous improvement of system and process automation. Deployed an automated End-of-Day scheduler that cut the cost of the operators.
-            - Engaged and cultivated partnerships with key stakeholders to comprehend and fulfil organisational needs. More than 96% of the requirements were delivered accordingly and in a timely manner.
-            - Led a team to execute a core system migration to a data centre in Kuala Lumpur, Malaysia. The new environment had enhanced the system’s performance by up to 25% compared to the previous environment.
-            - Published a revamped responsive application that serves retail customers using various devices. The channel increased sales lead generation by 35%.
-      - role: Technical Analyst
-        time: Nov 2005 - Jan 2012
-        company: Mega Auto Finance - Motorcycle Leasing Company
-        site: http://www.maf.co.id
-        details: |
-            - Developed, architected, and executed robust IT infrastructure. Successfully implemented server ecosystem by using VMware.
-            - Collaborated with cross-functional teams to deliver and deploy an upgraded core system. It supported 98% of the entire business process for both retail customers and internal back-office users.
-            - Published enhancements to improve payment collection processing time to less than 0.5 second on average.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
