@@ -1,7 +1,7 @@
 {% assign achievements = site.data.data.achievements %}
 {% if achievements %}
 <div class="gap-navbar" id="s-achievements"></div>
-  <section class="section skills-a-section">
+  <sectionwithgap class="section skills-a-section">
     <h2 class="section-title">
       <span class="fa-stack fa-xs">
         <i class="fas fa-circle fa-stack-2x"></i>
@@ -27,5 +27,5 @@
       {% endif %}
     </ul>
     {% endfor %}
-  </section>
+  </sectionwithgap>
 {% endif %}
